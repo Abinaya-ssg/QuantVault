@@ -36,14 +36,7 @@ The project emphasizes clarity, efficiency, and usability by combining complex f
 ## Screens
 
 - Dashboard
-- Portfolio
-- Market Overview
-- Watchlist
-- Asset Details
-- Analytics
-- Notifications
-- User Profile
-- Settings
+
 
 
 
