@@ -173,6 +173,7 @@ UI/UX Designer
 - GitHub: https://github.com/Abinaya-ssg
 - LinkedIn: https://www.linkedin.com/in/abinaya-s-250b752a1/
 - Behance: https://www.behance.net/gallery/252450753/QuantVault-Institutional-Trading-Dashboard?platform=direct
+- Figma: https://www.figma.com/design/QdGfL61pwbrH7nVPLUXjuZ/QuantVault?node-id=1-2&t=QZiGI7qT5IEtKvn2-1
 
 ---
 
